@@ -5,7 +5,7 @@ subtitle: >-
   including the exterior, of a room or building”.
 excerpt: >-
   Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”. An interior designer is
+  including the exterior,,qdhgl of a room or building”. An interior designer is
   someone who coordinates and manages such projects.
 date: '2020-09-26'
 thumb_image: images/post-2-thumb.jpg
